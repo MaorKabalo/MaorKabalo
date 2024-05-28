@@ -11,7 +11,7 @@
 <h3 align="left">My Current Skills:</h3>
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,java,linux,kali,git,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,androidstudio,java,firebase,linux,kali,git,gitlab,visualstudio,clion)](https://skillicons.dev)
 
 </p>
 
