@@ -4,7 +4,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MaorKabalo&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MaorKabalo" /></p>
 
 
-- 🌱 I’m currently working on my own C compiler
+- 🌱 I’m currently working on my own Suika-Game clone in Android Studio (Java)
 - 👨‍💻 Some of my projects are available on [my GitLab!](https://gitlab.com/maor64)
 - 📫 You can email me at **maor244482@gmail.com**
 
