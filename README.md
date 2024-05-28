@@ -8,7 +8,7 @@
 - 👨‍💻 Some of my projects are available on [my GitLab!](https://gitlab.com/maor64)
 - 📫 You can email me at **maor244482@gmail.com**
 
-<h3 align="left">My current stack:</h3>
+<h3 align="left">My Current Skills:</h3>
 <p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,python,java,linux,kali,git,gitlab)](https://skillicons.dev)
